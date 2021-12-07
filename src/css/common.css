@@ -25,7 +25,8 @@ img {
   font-size: 18px;
 }
 
-button[data-start] {
+button[data-start],
+button[data-stop] {
   height: 30px;
   font-family: Roboto;
   font-size: 18px;
